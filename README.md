@@ -6,7 +6,7 @@ and able to predict next day rain. This research evaluates the effectiveness of 
 predict rainfall in terms of weather forecast. There are various factors such as Humidity and Cloud are influencing the weather patterns and affects different 
 parts of the world. My purpose is to find out those factors, which can play an important part in rainfall prediction <br />
 
-Technologies:
+Technologies: <br />
 Dataset: weatherAUS.csv <br />
 Data Preprocessing: Handling missing values, feature Selection, handling data Correlation. <br />
 Feature Selection: Cutoff point for highly correlated variables <br />
